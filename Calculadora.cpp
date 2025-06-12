@@ -2,11 +2,13 @@
 #include <iostream>
 #include <math.h>
 #include <conio.h>
+#include <windows.h>
 #include "Calculadora.h"
 using namespace std;
 
 
 int main(){
+    SetConsoleOutputCP(CP_UTF8);
     Calculadora calc;
     float num1, num2;
     int option;
