@@ -41,4 +41,4 @@ git clone https://github.com/Tursz/trab_Ricardo_POO.git
 ```
 
 ### 3 - Execução
-Para executar os porgramas desejados utilize os arquivos .cpp
+Para executar os programas desejados utilize os arquivos .cpp
