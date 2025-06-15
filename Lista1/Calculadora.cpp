@@ -3,7 +3,7 @@
 #include <math.h>
 #include <conio.h>
 #include <windows.h>
-#include "Calculadora.h"
+#include "../Calculadora.h"
 using namespace std;
 
 
