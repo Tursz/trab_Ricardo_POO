@@ -2,7 +2,7 @@
 #include <iostream>
 #include <math.h>
 #include <conio.h>
-#include "../Palindromo.h"
+#include "Palindromo.h"
 #include <windows.h>
 using namespace std;
 
